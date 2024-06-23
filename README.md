@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAE00D,100:FFF600&height=200&section=header&text=Sieun's%20Github&animation=fadeIn&fontSize=40&fontAlign=50&fontColor=3c4303" />
 </div>
 
-<div align="center"><h2>📚 Tech Stack 📚</h2></div>
+<div align="center"><h3>📚 Tech Stack 📚</h3></div>
 <br>
 
 <!-- Languages -->
