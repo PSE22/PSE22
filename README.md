@@ -1,10 +1,12 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAE00D,100:FFF600&height=200&section=header&text=Sieun's%20Github&animation=fadeIn&fontSize=40&fontAlign=50&fontColor=3c4303" />
+</div>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<div align="center"><h2>📚 Tech Stack 📚</h2></div>
 <br>
 
 <!-- Languages -->
-<div align="center"><p>✨ Languages ✨</p></div>
+<div align="center"><h3>✨ Languages ✨</h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
@@ -25,7 +27,7 @@
 
 <br>
 
-<div align="center"><p>🛠 Tools 🛠</p></div>
+<div align="center"><h3>🛠 Tools 🛠</h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
@@ -36,4 +38,6 @@
 
 
 <br>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CAE00D,100:FFF600&height=100&section=footer&text=&fontSize=0" />
+</div>
