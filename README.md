@@ -60,5 +60,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CAE00D,100:FFF600&height=100&section=footer&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98CC00,100:FFF600&height=100&section=footer&text=&fontSize=0" />
 </div>
