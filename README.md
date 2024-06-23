@@ -40,11 +40,9 @@
 
 <!-- Contact -->
 <div align="center"><h3>✉️ Contact ✉️</h3></div>
-<div align="center"><a href="mailto:shieun45@gmail.com">
-<img src="https://img.shields.io/badge/shieun45@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@gules">
-<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<div align="center">
+<a href="mailto:shieun45@gmail.com"><img src="https://img.shields.io/badge/shieun45@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@gules"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </div>
 
 <br>
