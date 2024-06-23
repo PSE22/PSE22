@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAE00D,100:FFF600&height=200&section=header&text=Sieun's%20Github&animation=fadeIn&fontSize=40&fontAlign=50&fontColor=3c4303" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98CC00,100:FFF600&height=200&section=header&text=Sieun's%20Github&animation=fadeIn&font=Alkatra&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 </div>
 
 <div align="center"><h3>📚 Tech Stack 📚</h3></div>
@@ -51,7 +51,10 @@
 
 <!-- 깃허브 -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PSE22&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=PSE22&show_icons=true&theme=merko"> 
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gules)](https://solved.ac/gules)
 </div>
 
 <br>
