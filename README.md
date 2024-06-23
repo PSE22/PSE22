@@ -27,17 +27,35 @@
 
 <br>
 
+<!-- Tools -->
 <div align="center"><h3>🛠 Tools 🛠</h3></div>
 <div align="center">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3"/>
 </div>
 
+<br>
 
+<!-- Contact -->
+<div align="center"><h3>✉️ Contact ✉️</h3></div>
+<div align="center"><a href="mailto:shieun45@gmail.com">
+<img src="https://img.shields.io/badge/shieun45@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://velog.io/@gules">
+<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>
+</div>
 
 <br>
+
+<!-- 깃허브 -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PSE22&show_icons=true&theme=merko">
+</div>
+
+<br>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CAE00D,100:FFF600&height=100&section=footer&text=&fontSize=0" />
 </div>
