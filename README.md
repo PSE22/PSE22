@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98CC00,100:FFF600&height=200&section=header&text=Sieun's%20Github&animation=fadeIn&font=Alkatra&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98CC00,100:FFF600&height=200&section=header&text=안녕하세요%20백엔드%20개발자%20박시은입니다.&animation=fadeIn&font=Alkatra&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 </div>
 
 <div align="center"><h3>📚 Tech Stack 📚</h3></div>
